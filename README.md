@@ -28,10 +28,8 @@ This is an automated registration system built using:
 - `README.md`: This file
 - `form-screenshot.png`: Screenshot of the form
 
-## 📹 Demo Video
 
-[Watch the explanation video here](#) <!-- Replace # with YouTube or Drive link -->
 
 ## 🌐 Live Form
 
-[Open the Google Form here](#) <!-- Optional -->
+https://docs.google.com/forms/d/1vK4LxL6NofqZkNFC6b_DFqhcTW0z_WfHs3EYAgyKrqY/edit
